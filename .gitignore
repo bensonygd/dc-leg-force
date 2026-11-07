@@ -1,0 +1,26 @@
+# MATLAB / Simulink generated files
+slprj/
+*.slxc
+*.slx.autosave
+*.slx.bak
+*.asv
+*.m~
+*.mex*
+*_grt_rtw/
+*_ert_rtw/
+codegen/
+
+# Local simulation outputs
+results/
+
+# Private analysis is not part of this simulation-only repository
+estimation/
+tests/
+data/
+docs/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
